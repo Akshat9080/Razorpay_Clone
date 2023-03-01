@@ -1,0 +1,208 @@
+.box1:hover .Icon {
+    background-image: linear-gradient(30.55deg, #6ac7ff 11.05%, #148aff 90.09%);
+    box-shadow: 0px 2px 22px rgb(202 202 202 / 25%);
+  }
+  
+  .box1:hover .SVG {
+    filter: drop-shadow(0px 2px 22px rgba(202, 202, 202, 0.25));
+  }
+  
+  .box1:hover .logo {
+    background-image: url('/assets/features-wave.svg');
+    background-repeat: no-repeat;
+    background-position: bottom 1rem right;
+  }
+
+  .box1:hover{
+    transform: scale(1.03);
+    transition: all;
+    transition-duration:500ms;
+  }
+
+  .box2:hover .icon {
+    background-image: linear-gradient(30.55deg, #6ac7ff 11.05%, #148aff 90.09%);
+    box-shadow: 0px 2px 22px rgb(202 202 202 / 25%);
+  }
+  
+  .box2:hover .SVG {
+    filter: drop-shadow(0px 2px 22px rgba(202, 202, 202, 0.25));
+  }
+  
+  .box2:hover .logo {
+    background-image: url('/assets/features-wave.svg');
+    background-repeat: no-repeat;
+    background-position: bottom 1rem right;
+  }
+
+  .box2:hover{
+    transform: scale(1.03);
+    transition: all;
+    transition-duration:500ms;
+  }
+
+  .box3:hover .Icon1 {
+    background-image: linear-gradient(30.55deg, #6ac7ff 11.05%, #148aff 90.09%);
+    box-shadow: 0px 2px 22px rgb(202 202 202 / 25%);
+  }
+  
+  .box3:hover .SVG {
+    filter: drop-shadow(0px 2px 22px rgba(202, 202, 202, 0.25));
+  }
+  
+  .box3:hover .logo {
+    background-image: url('/assets/features-wave.svg');
+    background-repeat: no-repeat;
+    background-position: bottom 1rem right;
+  }
+
+  .box3:hover{
+    transform: scale(1.03);
+    transition: all;
+    transition-duration:500ms;
+  }
+
+  .box4:hover .icon1 {
+    background-image: linear-gradient(30.55deg, #6ac7ff 11.05%, #148aff 90.09%);
+    box-shadow: 0px 2px 22px rgb(202 202 202 / 25%);
+  }
+  
+  .box4:hover .SVG {
+    filter: drop-shadow(0px 2px 22px rgba(202, 202, 202, 0.25));
+  }
+  
+  .box4:hover .logo {
+    background-image: url('/assets/features-wave.svg');
+    background-repeat: no-repeat;
+    background-position: bottom 1rem right;
+  }
+
+  .box4:hover{
+    transform: scale(1.03);
+    transition: all;
+    transition-duration:500ms;
+  }
+
+  .box5:hover .icon2 {
+    background-image: linear-gradient(30.55deg, #6ac7ff 11.05%, #148aff 90.09%);
+    box-shadow: 0px 2px 22px rgb(202 202 202 / 25%);
+  }
+  
+  .box5:hover .SVG {
+    filter: drop-shadow(0px 2px 22px rgba(202, 202, 202, 0.25));
+  }
+  
+  .box5:hover .logo {
+    background-image: url('/assets/features-wave.svg');
+    background-repeat: no-repeat;
+    background-position: bottom 1rem right;
+  }
+
+  .box5:hover{
+    transform: scale(1.03);
+    transition: all;
+    transition-duration:500ms;
+  }
+
+  .box6:hover .icon3 {
+    background-image: linear-gradient(30.55deg, #6ac7ff 11.05%, #148aff 90.09%);
+    box-shadow: 0px 2px 22px rgb(202 202 202 / 25%);
+  }
+  
+  .box6:hover .SVG {
+    filter: drop-shadow(0px 2px 22px rgba(202, 202, 202, 0.25));
+  }
+  
+  .box6:hover .logo {
+    background-image: url('/assets/features-wave.svg');
+    background-repeat: no-repeat;
+    background-position: bottom 1rem right;
+  }
+
+  .box6:hover{
+    transform: scale(1.03);
+    transition: all;
+    transition-duration:500ms;
+  }
+
+  .Box-1:hover .cardIcon {
+    background-image: linear-gradient(30.55deg, #2d1efb 11.05%, #3e44f3 90.09%);
+    box-shadow: 0px 2px 22px rgba(89, 89, 89, 0.25);
+  }
+  
+  .Box-1:hover .svg {
+    filter: drop-shadow(0px 2px 22px rgba(89, 89, 89, 0.25));
+  }
+  
+  .Box-1:hover .Logo {
+    background-image: url('/assets/features2-wave.svg');
+    background-repeat: no-repeat;
+    background-position: bottom 1rem right;
+  }
+
+  .Box-1:hover{
+    transform: scale(1.03);
+    transition: all;
+    transition-duration:500ms;
+  }
+
+  .Box-2:hover .cardIcon {
+    background-image: linear-gradient(30.55deg, #2d1efb 11.05%, #3e44f3 90.09%);
+    box-shadow: 0px 2px 22px rgba(89, 89, 89, 0.25);
+  }
+  
+  .Box-2:hover .svg {
+    filter: drop-shadow(0px 2px 22px rgba(89, 89, 89, 0.25));
+  }
+  
+  .Box-2:hover .Logo {
+    background-image: url('/assets/features2-wave.svg');
+    background-repeat: no-repeat;
+    background-position: bottom 1rem right;
+  }
+
+  .Box-2:hover{
+    transform: scale(1.03);
+    transition: all;
+    transition-duration:500ms;
+  }
+
+  .Box-3:hover .cardIcon {
+    background-image: linear-gradient(30.55deg, #2d1efb 11.05%, #3e44f3 90.09%);
+    box-shadow: 0px 2px 22px rgba(89, 89, 89, 0.25);
+  }
+  
+  .Box-3:hover .svg {
+    filter: drop-shadow(0px 2px 22px rgba(89, 89, 89, 0.25));
+  }
+  
+  .Box-3:hover .Logo {
+    background-image: url('/assets/features2-wave.svg');
+    background-repeat: no-repeat;
+    background-position: bottom 1rem right;
+  }
+
+  .Box-3:hover{
+    transform: scale(1.03);
+    transition: all;
+    transition-duration:500ms;
+  }
+
+  .card1{
+    box-shadow: 1px 3px 5px rgb(178, 177, 177);
+  }
+
+  .card2{
+    box-shadow: 1px 3px 5px rgb(178, 177, 177);
+  }
+
+  .card3{
+    box-shadow: 1px 3px 5px rgb(178, 177, 177);
+  }
+
+  .card4{
+    box-shadow: 1px 3px 5px rgb(178, 177, 177);
+  }
+
+  .card5{
+    box-shadow: 1px 3px 5px rgb(178, 177, 177);
+  }
